@@ -22,6 +22,7 @@ Project Organization
     ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
     │                         the creator's initials, and a short `-` delimited description, e.g.
     │                         `1.0-jqp-initial-data-exploration`.
+        └── Project2.ipynb <- Python Notebook that contains *all the code* for this project
     │
     ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
     │
@@ -55,3 +56,14 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+
+## Requirements
+
+`pip install pandas`
+`pip install sklearn`
+
+
+## Process/Technique
+
+Tested with K Neighbors Classifier and Linear Discriminant Analysis, and Logistic Regression. LDA gave us the highest accuracy and was much faster than the other two.
