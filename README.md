@@ -1,7 +1,7 @@
 purah-p2
 ==============================
 
-#Ethical Facial Recognition
+**Ethical Facial Recognition**
 
 Project Organization
 ------------
